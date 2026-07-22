@@ -1,6 +1,6 @@
 # Geometric Response and State-Resolved Decoherence
 
-[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey)](#)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21482166.svg)](https://doi.org/10.5281/zenodo.21482166)
 <!-- Anderson: substitua o badge acima pelo badge real do Zenodo assim que o DOI existir,
      no mesmo formato do badge usado no repositório do Paper 1. -->
 
@@ -142,15 +142,16 @@ and the exact-vs-leading-order trajectory comparison behind Figure 4.
 
 ## Citation
 
+If you use this work or data in your research, please cite the paper as:
+
 ```bibtex
 @article{rodrigues2026geometric,
-  title   = {Geometric Response and State-Resolved Decoherence:
-             Microscopic Born-Markov Derivation for a Commuting
-             Qubit-Bath Coupling},
-  author  = {Rodrigues, Anderson Costa},
-  year    = {2026},
-  note    = {DOI to be assigned on deposit / acceptance.
-             Code: https://github.com/AndersonCRodrigues/geometric-decoherence-qmsg}
+  author       = {Rodrigues, Anderson Costa},
+  title        = {Geometric Response and State-Resolved Decoherence: Microscopic Born--Markov Derivation for a Commuting Qubit--Bath Coupling},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21482166},
+  url          = {[https://doi.org/10.5281/zenodo.21482166](https://doi.org/10.5281/zenodo.21482166)}
 }
 ```
 <!-- Anderson: substitua o bloco acima pela entrada final assim que o DOI existir
