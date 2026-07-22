@@ -1,14 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the accompanying paper as below."
+message: "If you use this software or manuscript data, please cite it as below."
 authors:
   - family-names: "Rodrigues"
     given-names: "Anderson Costa"
     orcid: "https://orcid.org/0009-0001-2084-2593"
 title: "Geometric Response and State-Resolved Decoherence: Microscopic Born-Markov Derivation for a Commuting Qubit-Bath Coupling"
 version: 1.0.0
-# doi: FILL IN once deposited on Zenodo (same workflow as the companion paper)
-date-released: 2026-07-17
-url: "https://github.com/AndersonCRodrigues/geometric-decoherence-qmsg"
+doi: 10.5281/zenodo.21482166
+date-released: 2026-07-22
+url: "https://doi.org/10.5281/zenodo.21482166"
 repository-code: "https://github.com/AndersonCRodrigues/geometric-decoherence-qmsg"
 keywords:
   - quantum mechanics
@@ -32,7 +32,14 @@ abstract: >-
   trajectory-dependent decoherence witness. It does not: we prove the
   non-proportionality explicitly and identify the specific obstruction,
   rather than assume or omit the comparison.
-# preferred-citation:
-#   type: article
-#   FILL IN once the journal version exists (journal, volume, pages, DOI).
-#   Until then this file only describes the preprint / repository above.
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Rodrigues"
+      given-names: "Anderson Costa"
+      orcid: "https://orcid.org/0009-0001-2084-2593"
+  title: "Geometric Response and State-Resolved Decoherence: Microscopic Born-Markov Derivation for a Commuting Qubit-Bath Coupling"
+  year: 2026
+  doi: 10.5281/zenodo.21482166
+  publisher: "Zenodo"
+  url: "https://doi.org/10.5281/zenodo.21482166"
